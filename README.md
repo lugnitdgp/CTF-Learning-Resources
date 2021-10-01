@@ -116,15 +116,17 @@
 - [fuzzysecurity](http://www.fuzzysecurity.com/tutorials.html)
 - [codearcana-fmt-strings](https://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html)
 - [bugbounty-search-engine](https://www.bugbountyhunting.com/)
+- [linux enumeration](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
 ## `Cheat Sheets` 
 
 - [Tiny-XSS-Payloads](https://tinyxss.terjanq.me/)
 - [PayloadsAllTheThings](https://github.com/s0wr0b1ndef/PayloadsAllTheThings)
 - [gtfobins](https://gtfobins.github.io/)
-- [PHP_Configuration_Cheat_Sheet.html)](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
+- [PHP_Configuration_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
 - [hacktricks](https://book.hacktricks.xyz/)
 - [lfi-cheat-sheet](https://highon.coffee/blog/lfi-cheat-sheet/)
+- [steg](https://github.com/DominicBreuker/stego-toolkit)
 
 
 
